@@ -11,7 +11,7 @@ CUSTOM_REMARK_B64 = "54G16bm/LeW8gOa6kOiKgueCuQ=="
 
 # 2. 节点订阅源库（随时可在末尾追加新链接）
 SOURCE_URLS = [
-    
+    ""
     "https://gt.1155555.xyz/https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt" 
 ]
 
