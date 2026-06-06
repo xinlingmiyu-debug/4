@@ -11,27 +11,7 @@ CUSTOM_REMARK_B64 = "54G16bm/LeW8gOa6kOiKgueCuQ=="
 
 # 2. 节点订阅源库（随时可在末尾追加新链接）
 SOURCE_URLS = [
-    "https://cdn.jsdelivr.net/gh/Pawdroid/Free-servers@main/sub",
-    "https://cdn.jsdelivr.net/gh/mfuu/v2ray@master/v2ray",
-    "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt",
-    "https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v202605312",
-    "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt",
-    "https://github.cmliussss.net/https://raw.githubusercontent.com/qmqv/jd07/refs/heads/main/v207-1010.txt",
-    "https://ghfast.top/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
-    "https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
-    "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
-    "https://sub.proxygo.org/v2ray.php?key=191c91f624a800e83942463fd667bba5",
-    "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity",
-    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
-    "https://app.sublink.works/x/ZrVEXNV",
-    "https://gcore.jsdelivr.net/gh/aews/jd2/v20528.txt",
-    "https://mm.mibei77.com/202606/06.0564bacrt.txt",
-    "https://mm.mibei77.com/202606/06.0664bacrt.txt",
-    "https://mm.mibei77.com/202606/06.0764bacrt.txt",
-    "https://mm.mibei77.com/202606/06.0864bacrt.txt",
-    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt",
-    "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha-All-Type.txt",
-    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/trojan.txt",
+    
     "https://gt.1155555.xyz/https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/base64.txt" 
 ]
 
